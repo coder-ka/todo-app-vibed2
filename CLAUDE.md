@@ -83,4 +83,4 @@ https://vercel.com/templates/next.js/nextjs-boilerplate
 
 - 開発サーバーなどの自動立ち上げの際（`npm run dev`等）は、すべて`procm-mcp`を使って立ち上げること
 - エラーログの確認も`procm-mcp`を使って確認し、対処すること
-- scriptとargsをちゃんと分けること
+- scriptとargsを分けること
